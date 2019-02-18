@@ -11,3 +11,4 @@ We recommend to use fileReader.h to read txt file to strings, and BigInteger cla
 
 * * *
 (19.02.17) The allowed instruction is changed. Using Multithreading is not allowed from now.
+(10.02.18) The solution "MUST" be executable in Linux, since the evaluation will be done on our server.
